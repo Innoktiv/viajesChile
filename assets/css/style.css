@@ -41,4 +41,11 @@ h3 {
   }
 }
 
+.tooltip {
+  width: 200px;
+  font-size: 1.5rem;
+  font-family: 'Montserrat';
+  font-weight: 900;
+  text-transform: uppercase;
+}
 

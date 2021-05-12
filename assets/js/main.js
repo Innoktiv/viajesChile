@@ -1,5 +1,6 @@
 $(document).ready(function(){
   
+  //Smooth scroll
   $("a").click(function(event){
     event.preventDefault();
 
@@ -9,4 +10,11 @@ $(document).ready(function(){
       scrollTop: $(enlaces).offset().top,
     }, 700);
   });
+
+  // Activa Tooltips
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+  })
+
 });
+
