@@ -20,23 +20,19 @@ h3 {
 }
 
 .navbar img {
- width: 5%;
+ width: 4%;
+ margin-right: 10px;
 }
 
 @media (max-width : 576px) {
   .navbar img {
-    width: 8%;
+    width: 15%;
    }
-   
+
   .navbar a {
     font-size: 16px;
     margin-right: 1px;
   }
 }
 
-/* Carousel  */
-
-/* Presentacion */
-
-/* Destacados */
 
