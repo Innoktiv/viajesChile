@@ -1,0 +1,42 @@
+body {
+ font-family: 'Montserrat', sans-serif;
+ background-color: black;
+ color: #fff;
+}
+
+h1 {
+ font-family: 'Roboto', sans-serif;
+ font-weight: 100;
+}
+
+h3 {
+ font-family: 'Roboto', sans-serif;
+ font-weight: 900;
+}
+
+/* Navbar */
+.navbar {
+ background-color:rgba(0,0,0,.2)
+}
+
+.navbar img {
+ width: 5%;
+}
+
+@media (max-width : 576px) {
+  .navbar img {
+    width: 8%;
+   }
+   
+  .navbar a {
+    font-size: 16px;
+    margin-right: 1px;
+  }
+}
+
+/* Carousel  */
+
+/* Presentacion */
+
+/* Destacados */
+
