@@ -9,6 +9,12 @@ h1 {
  font-weight: 100;
 }
 
+@media (max-width : 576px) {
+  h1 {
+    font-size: 30px;
+   }
+  }
+
 h3 {
  font-family: 'Roboto', sans-serif;
  font-weight: 900;
